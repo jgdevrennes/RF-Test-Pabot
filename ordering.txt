@@ -1,0 +1,11 @@
+--suite BA.F03.CasAutres
+--suite BA.F03.CasErreurs
+--suite BA.F03.CasUsages
+#WAIT
+--suite BA.F01.CasAutres
+--suite BA.F01.CasErreurs
+--suite BA.F01.CasErreurs
+--suite BA.F02.CasAutres
+--suite BA.F02.CasErreurs
+--suite BA.F02.CasUsages
+
